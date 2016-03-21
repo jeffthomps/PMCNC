@@ -105,8 +105,8 @@ void draw()
 
     shapeMode(CORNER);
     //shapeMode(CENTER);
-    background(000);
-    shape(cadImage, 200, 200);  
+    //background(000);
+    shape(cadImage, 0, 0);  
     //shape(cadImage, xValue, yValue); 
     //shape(cadImage, xValue, yValue, 357.717, 176.212);            // Draw at coordinate (x, y, width, height) 
     //shape(cadImage, xValue, yValue, 715.434, 352.424);
