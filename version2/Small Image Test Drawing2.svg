@@ -21,10 +21,10 @@ font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal
 <g fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.99913,0,0,0.998573,0,0)"
 font-family="MS Shell Dlg 2" font-size="11" font-weight="400" font-style="normal" 
 >
-<polyline fill="none" vector-effect="non-scaling-stroke" points="97.1205,28.3487 403.655,28.3487 " />
-<polyline fill="none" vector-effect="non-scaling-stroke" points="97.1205,334.883 403.655,334.883 " />
-<polyline fill="none" vector-effect="non-scaling-stroke" points="97.1205,28.3487 97.1205,334.883 " />
-<polyline fill="none" vector-effect="non-scaling-stroke" points="403.655,28.3487 403.655,334.883 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="138.47,44.4311 737.17,44.4311 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="138.47,643.131 737.17,643.131 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="138.47,44.4311 138.47,643.131 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="737.17,44.4311 737.17,643.131 " />
 </g>
 </g>
 </svg>
